@@ -24,7 +24,7 @@
      call vundle#rc()
 
      " let Vundle manage Vundle
-     " required! 
+     " required!
      Bundle 'gmarik/vundle'
 
      " My Bundles here:
@@ -56,7 +56,7 @@
 
 3. Install configured bundles:
 
-     Launch `vim`, run `:BundleInstall` 
+     Launch `vim`, run `:BundleInstall`
      (or `vim +BundleInstall +qall` for CLI lovers)
 
      *Windows users* see [Vundle for Windows](https://github.com/gmarik/vundle/wiki/Vundle-for-Windows)
@@ -73,7 +73,7 @@
 [Vundle] allows to:
 
 - keep track and configure your scripts right in `.vimrc`
-- [install] configured scripts (aka bundle) 
+- [install] configured scripts (aka bundle)
 - [update] configured scripts
 - [search] by name [all available vim scripts]
 - [clean] unused scripts up
@@ -90,11 +90,11 @@ see [`:h vundle`](vundle/blob/master/doc/vundle.txt#L1) vimdoc for more details.
 
 ## People Using Vundle
 
-see [Examples](/gmarik/vundle/wiki/Examples)
+see [Examples](https://github.com/gmarik/vundle/wiki/Examples)
 
 ## FAQ
 
-see [wiki](/gmarik/vundle/wiki)
+see [wiki](https://github.com/gmarik/vundle/wiki)
 
 ## Contributors
 
